@@ -14,8 +14,8 @@ The director of marketing believes the company’s future success depends on max
 How do annual members and casual riders use Cyclistic bikes differently?
 
 ## Tools
-MySQL for data processing, data cleaning, validation, and exploration
-Tableau Public for data visualization
+* MySQL for data processing, data cleaning, validation, and exploration. 
+* Tableau Public for data visualization
 
 ## Dataset
 The company's histrical data has been used for this project.
